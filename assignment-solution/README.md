@@ -3,20 +3,20 @@
 ### Plot 1
 
 
-![plot 1](assignment-solution/plot1.png) 
+![plot 1](plot1.png) 
 
 
 ### Plot 2
 
-![plot 2](assignment-solution/plot2.png) 
+![plot 2](plot2.png) 
 
 
 ### Plot 3
 
-![plot 3](assignment-solution/plot3.png) 
+![plot 3](plot3.png) 
 
 
 ### Plot 4
 
-![plot 4](assignment-solution/plot4.png) 
+![plot 4](plot4.png) 
 
